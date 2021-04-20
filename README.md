@@ -4,7 +4,7 @@
 
 This is almost the simplest site possible.
 Okta Education uses coffee-ice.com as a base domain in training for teaching how to use custom domains.
-I wanted a similar domain I managed te DNS to use for examples outside of class if somebody asked me, so I registered <i>coffee-ice.us</i>.
+I wanted a similar domain where I managed the DNS to use for examples outside of class if somebody asked, so I registered <i>coffee-ice.us</i>.
 The only thing useful about this website is that it has a good example of a scaling background picture, title, and test built with CSS.
 
 Enjoy!
