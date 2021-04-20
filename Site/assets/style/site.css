@@ -1,0 +1,28 @@
+/* site.css
+// Copyright © 2021 Joel Mussman. All rights reserved.
+*/
+
+html, body {
+    background-image: url(../images/background.png); /* "coffee-ice-cream" by gordonramsaysubmissions is licensed under CC BY 2.0 */ 
+    background-repeat: none;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+div.content {
+    padding-top: calc(100vh * .01);
+    padding-left: calc(100vh * .75);
+    max-width: 1400px;
+    font-size: calc(100vh * .05);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h1 {
+    font-size: calc(100vh * .15);
+    line-height: calc(100vh * .05);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
